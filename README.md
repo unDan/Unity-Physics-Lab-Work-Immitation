@@ -1,7 +1,7 @@
-# Unity-Physics-Lab-Work-Immitation
-Immitation of laboratory work in physics (theme: mechanics) I made on Unity as alternative to exam on the 1st course.
+# Unity-Physics-Lab-Work-Simulation
+Simulation of laboratory work in physics, that I made on Unity as alternative exam on the 1st course.
 
-This programm allows to get experimental data for 2 laboratory works of physics faculty in Saint-Petersburg State Electrotechnical University. Labs full description can be found here (7н and 5н): http://physicsleti.ru/labs/Methodichki/1semestr/SheinmanLabMech2.pdf
+This programm allows to get experimental data for 2 laboratory works of physics faculty in Saint-Petersburg State Electrotechnical University. Full description of Lab works can be found here (7н and 5н): http://physicsleti.ru/labs/Methodichki/1semestr/SheinmanLabMech2.pdf
 
 You can download the attached .rar archieve to use this program. There is a known problem exists: app may not work with some browsers (Firefox, for example), but it definitely works with Microsoft Edge.
 There is how to use this program:
